@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ASPS002
+- 👋 Hi, I’m @ujjwal srivastava
 - 👀 I’m interested in Machine learning,Deep Learning.
 - 🌱 I’m currently learning DSA,Algorithms,ML,DL.
 - 💞️ I’m looking to collaborate on 
