@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ASPS002
-- 👀 I’m interested in Web Development,Machine learning,Deep Learning.
-- 🌱 I’m currently learning DSA,Algorithms,ML,DL,HTML,CSS,JAVASCRIPT,Web Development.
+- 👋 Hi, I’m @Ujjwal Srivastava
+- 👀 I’m interested in Web Development, Machine learning, and Deep Learning.
+- 🌱 I’m currently exploring DSA, ML, DL, HTML, CSS, JAVASCRIPT, and WEB DEVELOPMENT.
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/ujjwal-srivastava-b6921b19b/)
 
 <!---
