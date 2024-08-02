@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ujjwal Srivastava
-- 👀 I’m interested in Web Development, Machine learning, and Deep Learning.
-- 🌱 I’m currently exploring DSA, ML, DL, HTML, CSS, JAVASCRIPT, and WEB DEVELOPMENT.
+- 👀 I’m interested in Software Development, Competitive Programming , Sports and music.
+- 🌱 I’m currently exploring Android Development.
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/ujjwal-srivastava-b6921b19b/)
 
 <!---
