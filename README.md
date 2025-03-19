@@ -12,6 +12,9 @@
 ---
 
 ## 🌟 **About Me**
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ASPS002&label=Profile%20Views&color=blue&style=flat" alt="Profile Views Counter" />
+</p>
 **👤 Name:** Ujjwal Srivastava. <br>
 **💻 Passionate about:** Software Development, AI, Open Source, and Problem-Solving. <br>
 **🛠️ Tech Stack:** C++, Java, Kotlin, Python, SQL, KQL, Dagger, Spring Boot, Nodejs, Azure DevOps Pipelines, Android, SQLite, Dynamodb. <br>
@@ -21,7 +24,7 @@
 
 📫 **Let's Connect**:  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ASPS002)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/ujjwal-srivastava-b6921b19b))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ujjwal-srivastava-b6921b19b)
 
 ---
 
@@ -57,8 +60,8 @@
 
 ## 💡 **Fun Facts**
 - 🚀 I started coding at 20!  
-- 🧠 I'm a Problem Solver & Debugging Enthusiast !  
-- 🕹️ I love playing Badminton when I'm not coding.  
+- 🧠 I'm a Problem Solver & Debugging Enthusiast!  
+- 🕹️ I love playing Badminton when I'm not coding!
 
 ---
 
