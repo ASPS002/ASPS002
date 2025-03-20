@@ -12,9 +12,6 @@
 ---
 
 ## 🌟 **About Me**
-<p>
-  <img src="https://komarev.com/ghpvc/?username=ASPS002&label=Profile%20Views&color=blue&style=flat" alt="Profile Views Counter" />
-</p>
 
 **👤 Name:** Ujjwal Srivastava. <br>
 **💻 Passionate about:** Software Development, AI, Open Source, and Problem-Solving. <br>
